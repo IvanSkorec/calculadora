@@ -29,3 +29,23 @@ button {
     background-color: #00916e;
     box-shadow: 5px 5px 10px -3px #00000040, -5px -5px 15px 3px #00ffc11f;
 }
+
+header {
+    background-color: black;
+    height: 100px;
+}
+
+.trolaso {
+    
+    color: aliceblue;
+   
+    position: sticky;
+    overflow: hidden;
+    
+}
+li {
+    display: inline-block;
+    position: relative;
+    
+    left: 100;
+}
